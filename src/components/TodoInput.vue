@@ -21,14 +21,14 @@
 import Modal from "./common/Modal.vue";
 
 export default {
-  data: function () {
+  data() {
     return {
       newTodoItem: "",
       showModal: false,
     };
   },
   methods: {
-    addTodo: function () {
+    addTodo() {
       if (this.newTodoItem !== "") {
         //   this.$emit("이벤트 이름", 인자1, 인자2, ...);
         this.$emit("addTodoItem", this.newTodoItem);
@@ -37,13 +37,14 @@ export default {
         this.showModal = !this.showModal;
       }
     },
-    clearInput: function () {
+    clearInput() {
       this.newTodoItem = ""; // 저장 후 inputbox 비워주기(초기화)
     },
   },
 
   components: {
-    Modal: Modal,
+    // Modal: Modal,
+    Modal,
   },
 };
 </script>
