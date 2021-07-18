@@ -1,5 +1,5 @@
 # vue-todo
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/37968260/126060194-5e0ea4ef-886a-441b-9871-a3da7bc2ee4b.gif)
 ## Project setup
 ```
 npm install
