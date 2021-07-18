@@ -1,5 +1,5 @@
 # vue-todo
-<img src="https://user-images.githubusercontent.com/37968260/126060194-5e0ea4ef-886a-441b-9871-a3da7bc2ee4b.gif" width="30%" height="40%"/>
+<img src="https://user-images.githubusercontent.com/37968260/126060273-45959115-13e9-46a2-81a7-1068fe3cb199.gif" width="30%" height="40%"/>
 
 ## Project setup
 ```
