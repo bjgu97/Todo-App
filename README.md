@@ -1,4 +1,4 @@
-# vue-todo
+# Todo App
 <img src="https://user-images.githubusercontent.com/37968260/126060273-45959115-13e9-46a2-81a7-1068fe3cb199.gif" width="30%" height="40%"/>
 
 ## Project setup
